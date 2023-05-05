@@ -3,7 +3,7 @@
 ![](./assets/home_screen.png)
 ## 
 ## About Screen
-![](./assets/about_screen.png)
+![](./assets/details_screen.png)
 ## 
 ## Profile Screen
 ![](./assets/profile_screen.png)
